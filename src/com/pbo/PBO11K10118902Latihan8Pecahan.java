@@ -6,7 +6,7 @@ package com.pbo;
  * Nama : Agung Sepruloh
  * Kelas : PBO11K
  * NIM : 10118902
- * Deskripsi Program : Program ini berisi macam-macam tipe data penampung nilai integer
+ * Deskripsi Program : Program ini berisi macam-macam tipe data penampung nilai pecahan
  *
  */
 
